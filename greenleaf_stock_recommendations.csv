@@ -1,0 +1,51 @@
+product_id,product_name,next_7_day_demand,name,stock_qty,record_level,stock_status
+49,Soap,36,Soap,85,10,Sufficient Stock
+2,Wheat Flour,28,Wheat Flour,22,10,Restock Recommended
+47,Raisins,28,Raisins,5,10,Low Stock
+9,Biscuits,28,Biscuits,5,10,Low Stock
+10,Cooking Oil,28,Cooking Oil,48,10,Sufficient Stock
+14,Noodles,28,Noodles,98,10,Sufficient Stock
+3,Sugar,26,Sugar,74,10,Sufficient Stock
+19,Peanut Butter,26,Peanut Butter,42,10,Sufficient Stock
+24,Apple,26,Apple,82,10,Sufficient Stock
+38,Ice Cream,26,Ice Cream,16,10,Restock Recommended
+13,Pasta,25,Pasta,82,10,Sufficient Stock
+31,Carrot,25,Carrot,77,10,Sufficient Stock
+12,Coffee,24,Coffee,17,10,Restock Recommended
+22,Cheese Slices,23,Cheese Slices,50,10,Sufficient Stock
+15,Oats,23,Oats,53,10,Sufficient Stock
+32,Cabbage,23,Cabbage,68,10,Sufficient Stock
+11,Tea,23,Tea,48,10,Sufficient Stock
+16,Cornflakes,22,Cornflakes,85,10,Sufficient Stock
+36,Chips,22,Chips,59,10,Sufficient Stock
+30,Tomato,22,Tomato,13,10,Restock Recommended
+48,Shampoo,22,Shampoo,27,10,Sufficient Stock
+50,Toothpaste,21,Toothpaste,69,10,Sufficient Stock
+6,Butter,21,Butter,76,10,Sufficient Stock
+28,Potato,21,Potato,46,10,Sufficient Stock
+33,Spinach,20,Spinach,87,10,Sufficient Stock
+1,Rice,20,Rice,8,10,Low Stock
+21,Eggs,20,Eggs,86,10,Sufficient Stock
+7,Cheese,19,Cheese,94,10,Sufficient Stock
+39,Frozen Peas,17,Frozen Peas,24,10,Sufficient Stock
+18,Jam,17,Jam,13,10,Restock Recommended
+8,Bread,15,Bread,62,10,Sufficient Stock
+5,Milk,15,Milk,34,10,Sufficient Stock
+41,Fish,15,Fish,54,10,Sufficient Stock
+40,Chicken,15,Chicken,92,10,Sufficient Stock
+25,Banana,15,Banana,98,10,Sufficient Stock
+26,Orange,15,Orange,53,10,Sufficient Stock
+20,Yogurt,15,Yogurt,17,10,Sufficient Stock
+23,Paneer,15,Paneer,94,10,Sufficient Stock
+44,Chana Dal,14,Chana Dal,19,10,Sufficient Stock
+29,Onion,14,Onion,9,10,Low Stock
+27,Mango,14,Mango,86,10,Sufficient Stock
+37,Chocolate,13,Chocolate,33,10,Sufficient Stock
+17,Honey,13,Honey,51,10,Sufficient Stock
+35,Lemon,13,Lemon,73,10,Sufficient Stock
+34,Cucumber,13,Cucumber,22,10,Sufficient Stock
+42,Toor Dal,13,Toor Dal,64,10,Sufficient Stock
+43,Moong Dal,13,Moong Dal,75,10,Sufficient Stock
+45,Almonds,13,Almonds,39,10,Sufficient Stock
+46,Cashews,13,Cashews,42,10,Sufficient Stock
+4,Salt,13,Salt,9,10,Low Stock
